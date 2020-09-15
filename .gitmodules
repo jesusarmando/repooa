@@ -1,0 +1,3 @@
+[submodule "repoob"]
+	path = repoob
+	url = git@github.com:jesusarmando/repoob.git
